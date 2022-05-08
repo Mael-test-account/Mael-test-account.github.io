@@ -92,20 +92,6 @@
     display: inline-block;
 }
 
-/*.container{
-    align-items: center;
-    text-align: center;
-}
-
-.icon-list{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-}
-
-.fa-regular, .fa-solid{
-    font-size: 3.5rem;
-}*/
-
 /************************Galerie*********************/
 
 .gallery-photos{
